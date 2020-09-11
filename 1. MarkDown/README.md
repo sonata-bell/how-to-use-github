@@ -1,5 +1,3 @@
-<h1>마크 다운 문서 작성법<h1>
+# 마크다운 사용법
 
-1. <p>제목(#)<p>
-
-<p>># 제목 ~ ###### 제목: Hashtag(#)의 개수가 많을 수록 중요도가 낮은 제목<p>
+GitHub Guides: https://guides.github.com/features/mastering-markdown/
