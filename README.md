@@ -1,3 +1,3 @@
-# how-to-use-github
+# How to use GitHub
 
 1. MarkDown
